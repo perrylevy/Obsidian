@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "5a0978a1be350a2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a1747ade37583ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8b2d52d5dd9de4b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ff00717b2dbbffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "343df8952da9808f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "142206ee40be62f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce99b9f57e40a09b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ae3abb66393457c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d36de4c2e3d25357",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b562ea68f5d08c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2651df6a985a739f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7bf6c182d0541a1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3a858e9696ecb307",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5bd9afcffc270a83",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cf6144cdac75933b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d8b2d52d5dd9de4b",
+  "lastOpenFiles": [
+    "Clippings/How To Trade ICT's Immediate Rebalance.md",
+    "Rande Howell.md",
+    "wiki/log.md.tmp.15244.1776376612613",
+    "wiki/index.md.tmp.15244.1776376598910",
+    "wiki/instruments/MNQ.md.tmp.15244.1776376532238",
+    "wiki/concepts/liquidity.md.tmp.15244.1776376520727",
+    "wiki/concepts/inversion-fair-value-gap.md.tmp.15244.1776376513455",
+    "wiki/concepts/order-block.md.tmp.15244.1776376503192",
+    "wiki/concepts/order-block.md.tmp.15244.1776376498627",
+    "wiki/concepts/fair-value-gap.md.tmp.15244.1776376470731",
+    "wiki/concepts/fair-value-gap.md.tmp.15244.1776376460660",
+    "wiki/timing/new-york-local-time.md",
+    "wiki/timing/new-york-local-time.md.tmp.15244.1776376437208",
+    "wiki/timing/macros.md",
+    "wiki/models/market-maker-sell-model.md",
+    "wiki/models/market-maker-buy-model.md",
+    "wiki/concepts/smart-money-reversal.md",
+    "wiki/concepts/breakaway-gap.md",
+    "wiki/concepts/draw-on-liquidity.md",
+    "wiki/concepts/failure-swing.md",
+    "wiki/concepts/high-resistance-liquidity-run.md",
+    "wiki/concepts/low-resistance-liquidity-run.md",
+    "wiki/concepts/mean-threshold.md",
+    "wiki/concepts/volume-imbalance.md",
+    "wiki/concepts/judas-swing.md",
+    "wiki/concepts/dealing-range.md",
+    "wiki/concepts/smt.md",
+    "wiki/concepts/pd-array.md",
+    "wiki/sources/nq-live-tape-reading-am-review.md",
+    "wiki/sources/2023-mentorship-market-maker-models.md",
+    "wiki/sources/2025-pd-array-matrix.md",
+    "wiki/sources/game-changer-irl-erl.md",
+    "wiki/sources/2024-mentorship-lecture-1.md",
+    "wiki/sources/2024-04-18-ob-tape-reading.md",
+    "wiki/sources/hrlr-vs-lrlr.md",
+    "wiki/sources/intro-smt-divergence.md",
+    "Pics/image0.jpg",
+    "Pics/Screenshot_2024-06-09_104553.png",
+    "Pics/Screenshot_2024-03-16_225109.png",
+    "Pics/image9.png",
+    "Pics/image8.png",
+    "Pics/image7.png",
+    "Pics/image6.png",
+    "Pics/image5.png",
+    "Pics/image4.png",
+    "Pics/image3.png"
+  ]
+}
